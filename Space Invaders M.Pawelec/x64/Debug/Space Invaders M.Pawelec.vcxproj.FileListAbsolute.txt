@@ -1,0 +1,2 @@
+C:\Users\Maciek\Desktop\Space Invaders\Space Invaders M.Pawelec\x64\Debug\Space Invaders M.Pawelec.exe
+C:\Users\Maciek\Desktop\Space Invaders\Space Invaders M.Pawelec\x64\Debug\Space Invaders M.Pawelec.pdb
