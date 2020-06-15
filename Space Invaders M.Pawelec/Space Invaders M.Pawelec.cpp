@@ -5,10 +5,11 @@ using namespace sf;
 
 int main()
 {
-    RenderWindow window(VideoMode(800, 600), "Space Invaders M.Pawelec", Style::Default);
+    RenderWindow window(VideoMode(800, 600), "Space Pepe Invaders M.Pawelec", Style::Default);
 
     Game game(&window);
-
+    
+   
       
         while (window.isOpen()) {
             Event event;
